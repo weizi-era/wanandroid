@@ -1,0 +1,8 @@
+rootProject.name = "wanandroid"
+include ':app'
+include ':base'
+include ':common'
+include ':home'
+include ':square'
+include ':public'
+include ':project'
